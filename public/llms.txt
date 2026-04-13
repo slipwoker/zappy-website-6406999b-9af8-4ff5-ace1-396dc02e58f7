@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות חולצות כדורגל מובילה בישראל! קיטים עדכניים, רטרו נדיר ומהדורות מיוחדות — כל חולצה שחלמת עליה נמצאת כאן. הזמן אונליין עכשיו!
+
+### קולקציות
+https://example.com/collections
+עיין בקולקציות הענק שלנו: חולצות כדורגל רטרו, קיטים של עונה שוטפת, חולצות נבחרות ומהדורות מיוחדות. מצא את הג׳רזי המושלם ותזמין ישירות אונליין!
+
+### קופסת מסתורין
+https://example.com/mystery-box
+הרפתקה חדשה לכל אוהד כדורגל! הזמן קופסת מסתורין וקבל חולצת כדורגל מפתיעה שנבחרה במיוחד עבורך. מתנה מושלמת או חוויה ייחודית לעצמך — הזמן עכשיו!
+
+### אודות
+https://example.com/about
+Ds Jersey נולדה מאהבה אמיתית לכדורגל. גלה מי אנחנו, מה מניע אותנו ולמה אלפי אוהדים בוחרים בנו כחנות חולצות הכדורגל המועדפת עליהם בישראל.
+
+### צור קשר
+https://example.com/contact
+רוצה לדעת על מלאי, הזמנה מיוחדת או סתם לדבר כדורגל? צוות Ds Jersey זמין ומחכה לך. צור קשר עכשיו ונשמח לעזור בכל עניין שיש לך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Ds Jersey
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Ds Jersey
+
+### Category
+https://example.com/category/:slug
+מוצרים - Ds Jersey
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
